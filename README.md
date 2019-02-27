@@ -20,8 +20,8 @@ run `node verifier.js`
 
 Output should be 
 `Verified token true
-Recovered pedcomm commitment <EC Point x: 4fbaa4a7f27e11a76579bf6625df28731ce07859cb64a117e7b389df1e45c614 y: 24c7feb300efd2141456c9a7ecfa77ce35ffa2f9be2554a6e9f972aaf11e58b0>`
-Generated new commitment by subtracting prover commitment from verifier commitment
+Recovered pedcomm commitment <EC Point x: 4fbaa4a7f27e11a76579bf6625df28731ce07859cb64a117e7b389df1e45c614 y: 24c7feb300efd2141456c9a7ecfa77ce35ffa2f9be2554a6e9f972aaf11e58b0>
+Generated new commitment by subtracting prover commitment from verifier commitment`
 
 4. The Holder generates the proof for the same using commitment from the verifier.  run `node prover.js proof`
 output will be `proof generated`
