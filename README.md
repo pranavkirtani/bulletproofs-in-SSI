@@ -1,4 +1,4 @@
-# Bulletproofs in Self sovereign Ecosystem
+# Bulletproofs in Self Sovereign Ecosystem
 
 The following library can be used to check if a number is greater than another using bulletproofs
 
