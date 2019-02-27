@@ -2,6 +2,8 @@
 
 The following library can be used to check if a number is greater than another using bulletproofs
 
+This is based on https://github.com/omershlo/simple-bulletproof-js
+
 ## Pre-requisites
 
 * Node.js
